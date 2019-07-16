@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Joana's Website </title>
+</head>
+<body>
+<p>
+Welcome at Joana's Website!
+<ol>
+Here is a brief introduction of myself. 
+<ul>
+<li>A Computer Science student at University of Houston Downtown.</li>
+<li>Graduated from HCC with an Associate of Science.
+Moved to USA in 2016.</li>
+<li>Lived in Europe most of my life.</li>
+<li>Born in Albania in July 30th, 1997.</li>
+
+<li>You can follow me on <a href= "https://github.com/joanamucogllava"> GitHub</a> or <a href= "https://www.youtube.com/watch?v=0T1ISDYrOlo&t=1s"> YouTube </li> 
+</a>
+Thank You!
+</p>
+<img src="image.png"with=200px height="200px">
+
+</body>
+</html>
