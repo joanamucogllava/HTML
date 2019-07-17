@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Joana's Shops</title>
+</head>
+<style type="text/css"></style>
+</style>
+
+<body>
+<ol>
+	<li>Electronic Stores</li>
+	<ul>
+		<li>Apple</li>
+		<li>Microsoft</li>
+		<li>Samsung</li>
+	</ul>
+	<li>Clothing Stores</li>
+	<ul>
+		<li>Gucci</li>
+		<li>Channel</li>
+		<li>Louis Vuitton</li>
+	</ul>
+</ol>
+
+<table border="1">
+	<caption>
+		Example Table
+	</caption>
+	<thead>
+		<tr>
+			<th> Fruit</th>
+			<th> Price</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td> Iphone X</td>
+			<td> $ 999</td>
+		</tr>
+		<tr>
+			<td> Channel Shoes</td>
+			<td> $ 1,200</td>
+		</tr>
+	</tbody>
+</table>
+</body>
+
+</html>
